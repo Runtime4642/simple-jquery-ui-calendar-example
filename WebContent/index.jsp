@@ -47,6 +47,8 @@ $(function() {
 	$( "#datepicker" ).datepicker();
     $( "#datepicker2" ).datepicker();
    
+    
+    
     /* full calendar  */
     var calendarEl =  $('#calendar')[0]; //document.getElementById('calendar');
 
